@@ -51,7 +51,7 @@ Quizzler is an educational software application that allows users to test their 
 ## :sparkles: Features
 
 :heavy_check_mark: Question Types: The quiz app supports various question types, including multiple-choice and true/false,\
-:heavy_check_mark: Scoring System: The app calculates and displays a score based on the user responds to the quiz questions\
+:heavy_check_mark: Scoring System: The app calculates and displays a score based on the user's responses to the quiz questions\
 :heavy_check_mark: Progress Tracking: Users can track their progress and see their performance history, including scores achieved in previous quizzes.\
 :heavy_check_mark: Social Sharing: Users can share their quiz results on social media platforms to challenge their friends or celebrate their achievements.
 
@@ -94,7 +94,7 @@ $ cd group46
 
 ## :innocent: Members
 
-The following people contributed to this project with their roles:
+The following people contributed to this project with their respective roles:
 
 - Manuel2u => 10945448 ( Full Stack Developer
 - maryakuba => 10969526 (Front-End Developer)
