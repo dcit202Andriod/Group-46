@@ -59,7 +59,7 @@ Quizzler is an educational software application that allows users to test their 
 
 The following tools were used in this project:
 
-- [Android](https://android.com/)
+- [Android Studio](https://android.com/)
 - [Java](https://oracle.com/)
 
 ## :white_check_mark: Requirements
