@@ -96,14 +96,14 @@ $ cd group46
 
 The following people contributed to this project with their respective roles:
 
-- Manuel2u => 10945448 ( Full Stack Developer
+- Manuel2u => 10945448 (Full Stack Developer)
 - maryakuba => 10969526 (Front-End Developer)
-- sigismund011 => 10951879 (Front-End Developer
-- Dorcas4l => 10945168 (Front-End Developer
-- ElvisKwabena => 10950536( Documentation )
+- sigismund011 => 10951879 (Front-End Developer)
+- Dorcas4l => 10945168 (Front-End Developer)
+- ElvisKwabena => 10950536 (Documentator)
 - Jayhubexp => 10964497 (Back-End Developer)
-- GeekYbruce => 10980887(quality assurance engineer)
-- Peter-DevX => 109571609(quality assurance engineer)
+- GeekYbruce => 10980887 (Back-End Developer)
+- Peter-DevX => 109571609 (Back-End Developer)
 
 ## :triangular_flag_on_post: Conclusion
 
